@@ -48,7 +48,7 @@
     "opt-cli": "^1.1.1",
     "proxyquire": "1.7.10",
     "semantic-release": "4.3.5",
-    "sinon": "^1.17.3",
+    "sinon": "^1.17.5",
     "travis-after-all": "^1.4.4",
     "validate-commit-msg": "2.6.1"
   },
